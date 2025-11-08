@@ -36,3 +36,7 @@ build/
 __pycache__
 
 */production/*
+
+*.lck
+
+*auto_saved_files*
