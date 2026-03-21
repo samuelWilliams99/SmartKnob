@@ -56309,7 +56309,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "20k"
 			(at 40.64 228.092 90)
 			(effects
 				(font
