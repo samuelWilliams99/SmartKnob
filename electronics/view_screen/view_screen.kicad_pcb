@@ -3544,18 +3544,6 @@
 		(layer "Edge.Cuts")
 		(uuid "f4f5c03c-c64a-4da9-b558-565dd608217e")
 	)
-	(gr_text "SmartKnob\nDevKit v0.1"
-		(at 81.1 106.7 -160)
-		(layer "B.SilkS")
-		(uuid "00000000-0000-0000-0000-0000620c0ace")
-		(effects
-			(font
-				(size 1.4 1.4)
-				(thickness 0.27)
-			)
-			(justify left mirror)
-		)
-	)
 	(via
 		(at 111.4 114.9)
 		(size 0.5)
