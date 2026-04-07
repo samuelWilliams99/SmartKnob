@@ -54209,7 +54209,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 40.64 224.79 0)
 			(effects
 				(font
@@ -54236,7 +54236,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C22975"
+		(property "LCSC" ""
 			(at 40.64 224.79 90)
 			(effects
 				(font
@@ -57974,7 +57974,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 40.64 229.87 0)
 			(effects
 				(font
@@ -58001,7 +58001,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C4184"
+		(property "LCSC" ""
 			(at 40.64 229.87 90)
 			(effects
 				(font
