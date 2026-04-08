@@ -11459,6 +11459,12 @@
 		(uuid "72ee81a7-7567-4a78-8903-5545143687ad")
 	)
 	(junction
+		(at 81.28 165.1)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7319e1b8-f5ca-4735-90de-d4701f40e592")
+	)
+	(junction
 		(at 593.725 210.185)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -17301,6 +17307,16 @@
 			(type default)
 		)
 		(uuid "6a2bfeb0-630d-4227-8672-1b7e5ea61fc1")
+	)
+	(wire
+		(pts
+			(xy 81.28 165.1) (xy 86.36 165.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6a47ee35-6460-437d-bd32-5ea0372cb073")
 	)
 	(wire
 		(pts
@@ -23682,6 +23698,16 @@
 		)
 		(uuid "10433aa3-9120-4e7a-9aea-1950aa0eb26d")
 	)
+	(label "FUEL_GAUGE_WAKE"
+		(at 86.36 165.1 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "13ab597b-a8ee-4cae-ad69-0b5a57b29ec8")
+	)
 	(label "MAG_CSN"
 		(at 345.44 99.06 0)
 		(effects
@@ -24521,6 +24547,16 @@
 			(justify right bottom)
 		)
 		(uuid "d655bb0a-cbf9-4908-ad60-7024ff468fbd")
+	)
+	(label "FUEL_GAUGE_WAKE"
+		(at 393.065 106.68 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "d81c0f17-c850-4739-a62a-795b7c78d351")
 	)
 	(label "STRAIN_E+"
 		(at 157.48 200.66 0)
@@ -52547,73 +52583,6 @@
 			(project "view_base"
 				(path "/5edcefbe-9766-42c8-9529-28d0ec865573"
 					(reference "D69")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint_Small")
-		(at 393.065 106.68 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b6b7f940-9081-4f4a-a4c4-c37ea7d36f51")
-		(property "Reference" "TP30"
-			(at 394.2842 105.5116 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "IO48"
-			(at 394.335 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D2.0mm"
-			(at 398.145 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 398.145 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 393.065 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "1ce80e4f-edee-4ca1-b0f6-43c3d553ee78")
-		)
-		(instances
-			(project "view_base"
-				(path "/5edcefbe-9766-42c8-9529-28d0ec865573"
-					(reference "TP30")
 					(unit 1)
 				)
 			)
