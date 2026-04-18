@@ -530,7 +530,7 @@
       "plot": "../build/gerber/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "view_base.step",
       "svg": "",
       "vrml": ""
     },
