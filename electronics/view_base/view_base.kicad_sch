@@ -40040,7 +40040,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C21190"
+		(property "LCSC" "C98220"
 			(at 60.96 339.09 90)
 			(effects
 				(font
@@ -55233,7 +55233,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C21190"
+		(property "LCSC" "C98220"
 			(at 68.58 342.9 90)
 			(effects
 				(font
