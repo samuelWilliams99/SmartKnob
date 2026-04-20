@@ -1943,6 +1943,7 @@
 		(property "Reference" "C86"
 			(at 0 -1.68 270)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "41fa92c4-8313-46f5-af8c-a5ab20664a84")
 			(effects
 				(font
